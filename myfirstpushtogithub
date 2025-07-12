@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF"-8>
+    <meta name="viewport" content="widith=device-width, intial- scale=1.0">
+    <title>>sample page</title>
+    <style></style> 
+</head>  
+<body>
+    my first push to GitHub
+    <h1>Welcome to My First GitHub Page</h1>
+    <p>This is a sample page to demonstrate my first push to GitHub.</p>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    
+</body>
+</html>
